@@ -1,12 +1,5 @@
 #  File: ER Simulation.py
 #  Description: Simulates an ER room with queues
-#  Student's Name: Wilshire Liu
-#  Student's UT EID: WL7583
-#  Course Name: CS 313E 
-#  Unique Number: 51325
-#
-#  Date Created: 10/13/16
-#  Date Last Modified: 10/13/16
 
 class Queue:
 

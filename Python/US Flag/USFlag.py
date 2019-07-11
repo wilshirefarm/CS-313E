@@ -1,12 +1,5 @@
 #  File: USFlag.py
 #  Description: Draws out the US flag with turtle graphics
-#  Student's Name: Wilshire Liu
-#  Student's UT EID: WL7583
-#  Course Name: CS 313E 
-#  Unique Number: 51325
-#
-#  Date Created: 9/13/16
-#  Date Last Modified: 9/15/16
 
 import turtle, math
 

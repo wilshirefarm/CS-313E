@@ -1,12 +1,5 @@
 #  File: LinkedLists.py
 #  Description: Methods for Linked Lists
-#  Student's Name: Wilshire Liu
-#  Student's UT EID: WL7583
-#  Course Name: CS 313E 
-#  Unique Number: 51325
-#
-#  Date Created: 10/20/16
-#  Date Last Modified: 10/21/16
 
 class Node:
 

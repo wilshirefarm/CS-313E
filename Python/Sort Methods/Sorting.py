@@ -1,12 +1,5 @@
 #  File: Sorting.py
 #  Description: Displays the average times of the 6 sorting methods with 10, 100, and 1000 elements when the lists are randomized, sorted, reversed, and almost sorted
-#  Student's Name: Wilshire Liu
-#  Student's UT EID: WL7583
-#  Course Name: CS 313E 
-#  Unique Number: 51325
-#
-#  Date Created: 11/17/16
-#  Date Last Modified: 11/18/16
 
 import random
 import time

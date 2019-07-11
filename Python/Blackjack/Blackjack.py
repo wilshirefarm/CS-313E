@@ -1,12 +1,5 @@
 #  File: Blackjack.py
 #  Description: Blackjack game
-#  Student's Name: Wilshire Liu
-#  Student's UT EID: WL7583
-#  Course Name: CS 313E 
-#  Unique Number: 51325
-#
-#  Date Created: 9/20/16
-#  Date Last Modified: 9/23/16
 
 import random
 

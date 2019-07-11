@@ -1,12 +1,5 @@
 #  File: Circular.py
 #  Description: HotPotato game with circular lists
-#  Student's Name: Wilshire Liu
-#  Student's UT EID: WL7583
-#  Course Name: CS 313E 
-#  Unique Number: 51325
-#
-#  Date Created: 10/26/16
-#  Date Last Modified: 10/27/16
 
 class Node (object):
    def __init__(self,initdata):

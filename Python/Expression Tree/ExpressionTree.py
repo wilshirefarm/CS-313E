@@ -1,12 +1,5 @@
 #  File: ExpressionTree.py
 #  Description: Reads in datafile with expressions, outputs expression, evaluates it, puts it in a binary tree, and outputs the values in prefix and postfix notation
-#  Student's Name: Wilshire Liu
-#  Student's UT EID: WL7583
-#  Course Name: CS 313E 
-#  Unique Number: 51325
-#
-#  Date Created: 11/30/16
-#  Date Last Modified: 12/1/16
 
 class BinaryTree(object):
      

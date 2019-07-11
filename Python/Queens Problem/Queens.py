@@ -1,12 +1,5 @@
 #  File: Queens.py
 #  Description: Solves the queens problem for board size n
-#  Student's Name: Wilshire Liu
-#  Student's UT EID: WL7583
-#  Course Name: CS 313E 
-#  Unique Number: 51325
-#
-#  Date Created: 11/8/16
-#  Date Last Modified: 11/10/16
 
 class QueensProblem:
 

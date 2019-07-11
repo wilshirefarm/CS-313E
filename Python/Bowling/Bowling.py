@@ -1,12 +1,5 @@
 #  File: Bowling.py
 #  Description: Reads in bowling scores and outputs the frames
-#  Student's Name: Wilshire Liu
-#  Student's UT EID: WL7583
-#  Course Name: CS 313E 
-#  Unique Number: 51325
-#
-#  Date Created: 9/5/2016
-#  Date Last Modified: 9/9/2016
 
 def main():
 
